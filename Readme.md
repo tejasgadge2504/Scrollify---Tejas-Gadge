@@ -9,7 +9,7 @@
 
 🌐For more see my linkedIn post <a href="https://www.linkedin.com/posts/tejas-gadge-8a395b258_scrollify-graphicdesign-uxdesign-activity-7130206723180539906-8VrD?utm_source=share&utm_medium=member_desktop">here</a>
 
-Note: Due to some difficulties you can access the figma file through this <a herf="https://drive.google.com/drive/folders/1T-lS_nnfesloYk4i5OTfc6hhwr-SPX8n?usp=drive_link"> drive link </a>
+Note: Due to some difficulties you can access the figma file through this <A href="https://drive.google.com/drive/folders/1T-lS_nnfesloYk4i5OTfc6hhwr-SPX8n?usp=drive_link"> Drive Link </A>
 
 Thankyou<br>
 <b>Tejas Gadge</b>
